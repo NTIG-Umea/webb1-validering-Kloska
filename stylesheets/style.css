@@ -1,9 +1,9 @@
 body {
-  background-image: url('c:\code\wu1-validation\img/IMG_20200727_113945.jpg');
+  background-image: url("Image.jpg");
   background-size: cover;
   background-color: #f7f7f7bd;
   font-size: 1rem;
-  font-family: 'Montserrat, sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 main, header, footer {
@@ -42,5 +42,5 @@ h2 {
 .info h3 {
   color: #222222;
   background-color: #dfdfdf;
-  margin-bottom: 0.2;
+  margin-bottom: 0;
 }
