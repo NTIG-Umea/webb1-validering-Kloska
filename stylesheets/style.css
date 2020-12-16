@@ -1,7 +1,7 @@
 body {
-  background-image: url("Image.jpg");
+  background-image:url('../img/Image.jpg');
   background-size: cover;
-  background-color: #f7f7f7bd;
+  background-color: #66666666;
   font-size: 1rem;
   font-family: 'Montserrat', sans-serif;
 }
