@@ -33,6 +33,16 @@ h2 {
   font-family: 'Montserrat', sans-serif;
 } 
 
+a {
+  color:#efefefef;
+  text-decoration: none;
+}
+
+a:hover {
+  color:#efefefef;
+  text-decoration:underline;
+}
+
 .lead {
   font-size: 1.4rem;
 }
