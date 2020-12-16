@@ -5,6 +5,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   line-height: 1.5;
+  margin: 0;
 }
 
 main, header, footer {
@@ -49,11 +50,12 @@ a:hover {
 
 .info {
   float: right;
-  margin: 1rem
+  margin: 1rem;
+  margin-top: 0rem;
 }
 
 .info > h3 {
   color: #efefef;
-  background-color: #666666;
+  background-color: #313131;
   margin-bottom: 0.2;
 }
